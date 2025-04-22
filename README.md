@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dasnishant7777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PqrkWWlQhBdrwltEnVK2p-OPHp13um7R/view?usp=sharing](https://drive.google.com/file/d/1PqrkWWlQhBdrwltEnVK2p-OPHp13um7R/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1XjFFd7dXUNSxjhjJwrBZ4KJfvJnYImDA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
