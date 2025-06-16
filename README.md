@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantdas77" alt="nishantdas77" /></a> </p>
 
-- 🔭 I’m currently working on [Electricity Consumption Prediction](https://github.com/Nishantdas77/electricity-consumption-prediction)
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence**
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **dasnishant7777@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1XjFFd7dXUNSxjhjJwrBZ4KJfvJnYImDA/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/14s_8TXjvsBog1tMXmZWV9W7jg8Fs1HaR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
